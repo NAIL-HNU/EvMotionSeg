@@ -4,7 +4,7 @@ This repository is official implementation of our ICRA 2026 paper "Real-time Mot
 
 ### **Related Publications**
 
-[1] **[Real-time Motion Segmentation from Event-based Normal Flow]()**, *Sheng Zhong^*^, Zhongyang Ren^*^, Xiya Zhu, Dehao Yuan, Cornelia Fermuller, Yi Zhou*, IEEE International Conference on Robotics and Automation (ICRA), 2026. 
+[1] **[Real-time Motion Segmentation from Event-based Normal Flow]()**, *Sheng Zhong^\*^, Zhongyang Ren^\*^, Xiya Zhu, Dehao Yuan, Cornelia Fermuller, Yi Zhou*, IEEE International Conference on Robotics and Automation (ICRA), 2026. 
 
 [2] **[Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730.pdf)**, 
 *Yi Zhou, Guillermo Gallego, Xiuyuan Lu, Siqi Liu and Shaojie Shen*, 
