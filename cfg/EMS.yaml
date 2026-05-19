@@ -1,0 +1,22 @@
+data_file_path: "/home/bell/data/EMSGC_bag/hkust_EMS/corridor/"
+
+# for corridor
+interval: 0.0111
+width: 346
+height: 260
+fx: 263.28364
+fy: 263.69952
+downsample_rate: 3
+
+data_term: 1
+smooth_term: 10000
+label_term: 120000
+
+
+# for cast
+# interval: 0.0333
+# width: 346
+# height: 260
+# data_term: 1
+# smooth_term: 14000
+# label_term: 80000

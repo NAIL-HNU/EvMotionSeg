@@ -1,0 +1,6 @@
+<launch>
+    <!-- 直接硬编码参数的版本 -->
+    <node pkg="motion_segmentation" type="motion_segmentation" name="motion_segmentation" output="screen">
+     <rosparam command="load" file="$(find motion_segmentation)/cfg/EMS.yaml" />
+    </node>
+</launch>
