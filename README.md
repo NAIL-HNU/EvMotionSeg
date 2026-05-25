@@ -9,7 +9,7 @@
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 34(8):4868-4880, 2021.
 
 [3] **[Event-based Motion Segmentation by Cascaded Two-Level Multi-Model Fitting](https://arxiv.org/pdf/2111.03483)**,
-*Yi Zhou, Guillermo Gallego, Xiuyuan Lu, Siqi Liu and Shaojie Shen*, IROS 2021.
+*Xiuyuan Lu, Yi Zhou and Shaojie Shen*, IROS 2021.
 
 ### 1. Installation
 
